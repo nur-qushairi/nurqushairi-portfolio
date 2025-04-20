@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "77a55c0abe04ca7633ede983b9d3edb8",
+    "revision": "98080f31e4096ea2ffa68916ac0fb4fc",
     "url": "/nurqushairi-portfolio/index.html"
   },
   {
-    "revision": "02ae9804cace5c6d068e",
+    "revision": "2f7b9a4500ae59fd9001",
     "url": "/nurqushairi-portfolio/static/css/2.d660b8ca.chunk.css"
   },
   {
-    "revision": "3007000797a84c9b88b6",
+    "revision": "5b2079a2519c8ddeb7e5",
     "url": "/nurqushairi-portfolio/static/css/main.e7d2fab8.chunk.css"
   },
   {
-    "revision": "02ae9804cace5c6d068e",
-    "url": "/nurqushairi-portfolio/static/js/2.7a5b3105.chunk.js"
+    "revision": "2f7b9a4500ae59fd9001",
+    "url": "/nurqushairi-portfolio/static/js/2.3af4e57f.chunk.js"
   },
   {
-    "revision": "47f7eb342e9ec131679f",
-    "url": "/nurqushairi-portfolio/static/js/3.0db04885.chunk.js"
+    "revision": "9c5fad1b0ac2d50eb06e",
+    "url": "/nurqushairi-portfolio/static/js/3.f6f5e007.chunk.js"
   },
   {
-    "revision": "3007000797a84c9b88b6",
-    "url": "/nurqushairi-portfolio/static/js/main.9e9be88b.chunk.js"
+    "revision": "5b2079a2519c8ddeb7e5",
+    "url": "/nurqushairi-portfolio/static/js/main.d8eb9e80.chunk.js"
   },
   {
-    "revision": "24032f703e4f0d5e255c",
-    "url": "/nurqushairi-portfolio/static/js/runtime~main.f0b144b8.js"
+    "revision": "c388a9ce11af449c835c",
+    "url": "/nurqushairi-portfolio/static/js/runtime~main.9bdd2944.js"
   },
   {
     "revision": "4ea3794d631bedab7999678f46b0a162",
@@ -78,10 +78,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "60fca85eaf7a5a4357a2960244b0650b",
     "url": "/nurqushairi-portfolio/static/media/project-dongfeng.60fca85e.png"
-  },
-  {
-    "revision": "08e5b04289e11fe1c0776cef35c4bcf2",
-    "url": "/nurqushairi-portfolio/static/media/project-img3.08e5b042.png"
   },
   {
     "revision": "67b94c5f6ccccc68594d624a785b00e3",
