@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c323eab933609b6766a39aac28c7d7f",
+    "revision": "c37eef126eb5701f9419082281227a57",
     "url": "/nurqushairi-portfolio/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nurqushairi-portfolio/static/css/2.d660b8ca.chunk.css"
   },
   {
-    "revision": "b3d5aeadb97096a52cae",
-    "url": "/nurqushairi-portfolio/static/css/main.79dae474.chunk.css"
+    "revision": "8460e38bbef830f6b993",
+    "url": "/nurqushairi-portfolio/static/css/main.b31e11a4.chunk.css"
   },
   {
     "revision": "2f7b9a4500ae59fd9001",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nurqushairi-portfolio/static/js/3.f6f5e007.chunk.js"
   },
   {
-    "revision": "b3d5aeadb97096a52cae",
+    "revision": "8460e38bbef830f6b993",
     "url": "/nurqushairi-portfolio/static/js/main.c5f93e96.chunk.js"
   },
   {
