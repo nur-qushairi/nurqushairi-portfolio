@@ -8,7 +8,7 @@ import projImg2 from "../assets/img/project-pbht.png";
 import projImg3 from "../assets/img/project-pronet4u.png";
 import projImg4 from "../assets/img/project-dongfeng.png";
 import projImg5 from "../assets/img/project-myportfolio.png";
-import projImg6 from "../assets/img/project-img3.png";
+import projImg6 from "../assets/img/project-bakery.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -54,18 +54,39 @@ export const Projects = () => {
       description: "Nur Qushairi's Portfolio",
       role: "Front-End Developer (with Backend Integration) – Built and styled a portfolio website using React. Integrated contact form using Formspree and previously experimented with SMTP setup via Brevo. Deployed via GitHub Pages",
       imgUrl: projImg5,
+      link: "https://github.com/nur-qushairi/nurqushairi-portfolio",
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "evelynpassionbakery.com",
+      description: "Evelyn Passion Bakery's Website",
+      role: "CMS Developer – Specialized in WordPress site setup & custom HTML/CSS styling",
       imgUrl: projImg6,
+      link: "https://evelynpassionbakery.com/",
     },
+
   ];
 
   const experiences = [
+        {
+      title: "Web Admin, Web & Mobile Developer",
+      duration: "Aug 2025 – Present",
+      company: " Citadel Group Technologies Sdn Bhd, Petaling Jaya",
+      responsibilities: [
+        "Manage end-to-end web development from planning to deployment.",
+        "Handle website maintenance, updates, and troubleshooting.",
+        "Created and launched 10+ company and subsidiary websites, managing end-to-end development, hosting, migration, DNS, and SEO to ensure consistent branding and performance.",
+        "Manage domain setup, DNS configuration, and hosting (Plesk, Exabytes).",
+        "Perform database management and integration for dynamic websites.",
+        "Develop responsive web and mobile interfaces using HTML, CSS, JavaScript,and Wordpress",
+        "Customize and manage CMS platforms (WordPress) for various client needs.",
+        "Conduct SEO optimization to improve site visibility and performance.",
+        "• Ensure cross-platform compatibility and optimize website performance.",
+      ],
+      highlights: "Strengthened brand presence and user engagement by optimizing multi-site performance, SEO, and responsive design across all company platforms."
+    },
     {
       title: "Executive Web Developer",
-      duration: "Jan 2024 – Present",
+      duration: "Jan 2024 – Mar 2025",
       company: "Pantai Bharu Group of Companies, Klang",
       responsibilities: [
         "Designed and deployed 4 company websites across various industries.",

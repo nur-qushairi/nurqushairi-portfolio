@@ -50,7 +50,7 @@ export const Banner = () => {
             <h1>{`Hi! I'm Qushairi ! `} <br></br>{`A `}<span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Web Designer", "UI/UX Designer" ]'>
               <span className="wrap">{text}</span></span>
             </h1>
-            <p>I specialize in front-end development, custom CMS solutions, website customization, and user-focused UI/UX design. My work blends clean code with thoughtful design to create seamless digital experiences.</p>
+            <p> A Web Developer with 2 years of experience in designing, building, and maintaining responsive websites from concept to deployment. Skilled in both front-end and CMS-based development, including DNS setup, hosting management, and website optimization to ensure seamless performance and user experience.</p>
     
           </Col>
           <Col xs={12} md={6} xl={5}>

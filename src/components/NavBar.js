@@ -44,14 +44,15 @@ export const NavBar = () => {
                     <span className="navbar-text">
                         <div className="social-icon">
                             <a href="https://www.linkedin.com/in/nur-qushairi-b4782135b" target="_blank" rel="noopener noreferrer"><img src={navicon1} alt="LinkedIn" /></a>
-                            <a href="a"><img src={navicon2} alt="" /></a>
+                            <a href="https://github.com/nur-qushairi/nurqushairi-portfolio"><img src={navicon2} alt="" /></a>
                         </div>
                         {}
-                        <a href="/nur_qushairi.pdf" download>
+                        <a href={`${process.env.PUBLIC_URL}/nur_qushairi_cv.pdf`} download>
                             <button className="vvd">
                                 <span>Download Resume</span>
                             </button>
                         </a>
+
                     </span>
                 </Navbar.Collapse>
             </Container>

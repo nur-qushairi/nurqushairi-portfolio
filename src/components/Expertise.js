@@ -6,28 +6,45 @@ import 'animate.css';
 export const Expertise = () => {
   const skills = [
     {
-      category: "Front-End & Development Tools",
+      category: "Web Development",
       icon: <FaDesktop />,
       skills: [
-        { name: "HTML5", level: 75 },
-        { name: "CSS3", level: 75 },
-        { name: "JavaScript", level: 75 },
-        { name: "PHP", level: 65 },
+        { name: "HTML5", level: 80 },
+        { name: "CSS3", level: 80 },
+        { name: "JavaScript", level: 70 },
+        { name: "PHP", level: 55 },
         { name: "ReactJS", level: 55 },
+        { name: "Wordpress", level: 80 },
+        { name: "Mobile Responsive", level: 70 },
+        { name: "SEO Optimization", level: 70 },
       ]
     },
+        {
+        category: "DevOps & Deployment",
+        icon: <FaPencilRuler />,
+        skills: [
+          { name: "Dns & Hosting Setup", level: 90 },
+          { name: "Exabytes", level: 90 },
+          { name: "Github", level: 70 },
+          { name: "Vercel V0", level: 70 },
+          { name: "Laragon", level: 70 },
+          { name: "Plesk", level: 100 },
+          { name: "Cpanel", level: 85 },
+        ]
+    },
     {
-      category: "CMS/Hosting",
+      category: "UI/UX & Design Tools",
       icon: <FaDatabase />,
       skills: [
-        { name: "WordPress", level: 85 },
-        { name: "Plesk", level: 80 },
-        { name: "Laragon", level: 75 },
-        { name: "Exabytes", level: 80 },
+        { name: "Figma", level: 70 },
+        { name: "UI design", level: 80 },
+        { name: "UX design", level: 75 },
+        { name: "Prototyping", level: 80 },
+        { name: "Wireframing", level: 80 },
       ]
     },
     {
-      category: "Data & API Tools",
+      category: "Backend Database",
       icon: <FaCode />,
       skills: [
         { name: "SQL", level: 55 },
@@ -36,21 +53,34 @@ export const Expertise = () => {
       ]
     },
     {
-      category: "General Tools",
+      category: "Mobile Development",
       icon: <FaGithub />,
       skills: [
-        { name: "GitHub", level: 60 },
-        { name: "Microsoft Word", level: 100 },
-        { name: "PowerPoint", level: 85 },
+        { name: "Flutter", level: 60 },
+        { name: "React Native", level: 70 },
+        { name: "Cross-platform", level: 90 },
       ]
     },
     {
-        category: "Design Tools",
+        category: "AI & Automation Tools",
         icon: <FaPencilRuler />,
         skills: [
-          { name: "Figma", level: 90 },
+          { name: "Black Box Testing", level: 90 },
+          { name: "Chatgpt", level: 100 },
+          { name: "Prompt Engineering", level: 100 },
         ]
     },
+    {
+      category: "Development Practices",
+      icon: <FaGithub />,
+      skills: [
+        { name: "Front-end", level: 90 },
+        { name: "Full-stack", level: 60 },
+        { name: "Low-code", level: 90 },
+        { name: "Agile Methodology", level: 85 },
+      ]
+    },
+
   ];
 
   return (
