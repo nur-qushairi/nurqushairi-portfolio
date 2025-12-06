@@ -84,7 +84,7 @@ export const Projects = () => {
       description: "Citadel Group Technologies Sdn Bhd",
       role: "Company Profile",
       imgUrl: projImg6,
-      link: "citadelholdings.com.my/citadeltechnologies ",
+      link: "https://citadelholdings.com.my/citadeltechnologies/",
     },
   ];
 
