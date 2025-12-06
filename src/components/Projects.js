@@ -79,12 +79,54 @@ export const Projects = () => {
       imgUrl: projImg6,
       link: "https://citadelgroup.com.my/",
     },
-        {
+    {
       title: "Citadel Group Technology",
       description: "Citadel Group Technologies Sdn Bhd",
-      role: "Company Profile",
+      role: "IT Company at Citadel Holdings",
       imgUrl: projImg6,
       link: "https://citadelholdings.com.my/citadeltechnologies/",
+    },
+    {
+      title: "Citadel Tayyib 360",
+      description: "Citadel Tayyib 360 Sdn Bhd",
+      role: "Shariah Compliant Business Solution at Citadel Group",
+      imgUrl: projImg6,
+      link: "https://citadelgroup.com.my/citadeltayyib360/",
+    },
+    {
+      title: "Citadel Travel & Tours",
+      description: "Citadel Travel & Tours Sdn Bhd",
+      role: "Tourism Company at Citadel Group",
+      imgUrl: projImg6,
+      link: "https://citadelgroup.com.my/citadeltraveltours/",
+    },
+    {
+      title: "Citadel Wealth Partners",
+      description: "Citadel Wealth Partners Sdn Bhd",
+      role: "Finance Company at Citadel Group",
+      imgUrl: projImg6,
+      link: "https://citadelholdings.com.my/citadelwealthpartners/",
+    },
+    {
+      title: "Citadel Capital",
+      description: "Citadel Capital Sdn Bhd",
+      role: "Finance Company at Citadel Group",
+      imgUrl: projImg6,
+      link: "https://citadelgroup.com.my/citadelcapital/",
+    },
+    {
+      title: "Citadel Pay",
+      description: "Citadel Pay Sdn Bhd",
+      role: "Finance Company at Citadel Group",
+      imgUrl: projImg6,
+      link: "https://citadelholdings.com.my/citadelpay/",
+    },
+    {
+      title: "flourpowerselayang.com",
+      description: "Flour Power Selayang's Website",
+      role: "Food & Beverage – Community Enterprise",
+      imgUrl: projImg6,
+      link: "https://flourpowerselayang.com/",
     },
   ];
 
