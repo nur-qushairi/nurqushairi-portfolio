@@ -63,7 +63,7 @@ export const Projects = () => {
       imgUrl: projImg6,
       link: "https://evelynpassionbakery.com/",
     },
-        {
+    {
       title: "citadelholdings.com.my",
       description: "Citadel Holdings Sdn Bhd",
       role: "Citadel Holdings Company Profile",
@@ -71,7 +71,21 @@ export const Projects = () => {
       imgUrl: projImg6,
       link: "https://citadelholdings.com.my/",
     },
-
+    {
+      title: "citadelgroup.com.my",
+      description: "Citadel Group Sdn Bhd",
+      role: "Citadel Group Company Profile",
+      date: "Published on Nov 2025",
+      imgUrl: projImg6,
+      link: "https://citadelgroup.com.my/",
+    },
+        {
+      title: "Citadel Group Technology",
+      description: "Citadel Group Technologies Sdn Bhd",
+      role: "Company Profile",
+      imgUrl: projImg6,
+      link: "citadelholdings.com.my/citadeltechnologies ",
+    },
   ];
 
   const experiences = [
