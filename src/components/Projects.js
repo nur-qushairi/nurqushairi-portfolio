@@ -20,7 +20,7 @@ export const Projects = () => {
     {
       title: "pbroadtax.com",
       description: "SZ-Autohouse Sdn Bhd",
-      role: "Front-End Developer- Website Builder with custom HTML & CSS integration",
+      role: "Car Insurance Company",
       date: "Published on June 2024",
       imgUrl: projImg1,
       link: "https://pbroadtax.com",
@@ -28,7 +28,7 @@ export const Projects = () => {
     {
       title: "pbholidaysandtours.com",
       description: "PB Holidays and Tours Sdn Bhd",
-      role: "Full-Stack Web Developer – Built from scratch using HTML, CSS, JavaScript & PHP",
+      role: "Tourism Company",
       date: "Published on Oct 2024",
       imgUrl: projImg2,
       link: "https://pbholidaysandtours.com",
@@ -36,7 +36,7 @@ export const Projects = () => {
     {
       title: "pronet4u.com.my",
       description: "Proton eMas Pantai Bharu Autohaus Sdn Bhd",
-      role: "CMS Developer – Specialized in WordPress site setup & custom HTML/CSS styling",
+      role: "Automotive Company",
       date: "Published on Dec 2024",
       imgUrl: projImg3,
       link: "https://pronet4u.com.my",
@@ -44,7 +44,7 @@ export const Projects = () => {
     {
       title: "dongfeng4u.com.my",
       description: "Pantai Bharu Holdings Sdn Bhd",
-      role: "Front-End Developer – WordPress with advanced HTML/CSS customization & layout enhancements",
+      role: "Automotive Company",
       date: "Published on Feb 2025",
       imgUrl: projImg4,
       link: "https://dongfeng4u.com.my",
@@ -52,14 +52,14 @@ export const Projects = () => {
     {
       title: "My Portfolio",
       description: "Nur Qushairi's Portfolio",
-      role: "Front-End Developer (with Backend Integration) – Built and styled a portfolio website using React. Integrated contact form using Formspree and previously experimented with SMTP setup via Brevo. Deployed via GitHub Pages",
+      role: "My Website",
       imgUrl: projImg5,
       link: "https://github.com/nur-qushairi/nurqushairi-portfolio",
     },
     {
       title: "evelynpassionbakery.com",
       description: "Evelyn Passion Bakery's Website",
-      role: "CMS Developer – Specialized in WordPress site setup & custom HTML/CSS styling",
+      role: "Bakerys",
       imgUrl: projImg6,
       link: "https://evelynpassionbakery.com/",
     },
