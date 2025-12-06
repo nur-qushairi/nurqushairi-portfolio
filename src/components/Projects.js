@@ -63,6 +63,13 @@ export const Projects = () => {
       imgUrl: projImg6,
       link: "https://evelynpassionbakery.com/",
     },
+        {
+      title: "citadelholdings.com.my",
+      description: "Citadel Holdings Company Profile",
+      date: "Published on Oct 2025",
+      imgUrl: projImg6,
+      link: "https://citadelholdings.com.my/",
+    },
 
   ];
 
