@@ -59,7 +59,7 @@ export const Projects = () => {
     {
       title: "evelynpassionbakery.com",
       description: "Evelyn Passion Bakery's Website",
-      role: "Bakerys",
+      role: "Online Bakery Shop",
       imgUrl: projImg6,
       link: "https://evelynpassionbakery.com/",
     },
