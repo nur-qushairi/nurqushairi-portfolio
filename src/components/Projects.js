@@ -9,6 +9,15 @@ import projImg3 from "../assets/img/project-pronet4u.png";
 import projImg4 from "../assets/img/project-dongfeng.png";
 import projImg5 from "../assets/img/project-myportfolio.png";
 import projImg6 from "../assets/img/project-bakery.png";
+import projImg7 from "../assets/img/flourpower.png";
+import projImg8 from "../assets/img/citadelpay.png";
+import projImg9 from "../assets/img/citadelcapital.png";
+import projImg10 from "../assets/img/citadelwp.png";
+import projImg11 from "../assets/img/ctt.png";
+import projImg12 from "../assets/img/tayyib.png";
+import projImg13 from "../assets/cgt.png";
+import projImg14 from "../assets/cg.png";
+import projImg15 from "../assets/ch.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -68,7 +77,7 @@ export const Projects = () => {
       description: "Citadel Holdings Sdn Bhd",
       role: "Citadel Holdings Company Profile",
       date: "Published on Oct 2025",
-      imgUrl: projImg6,
+      imgUrl: projImg15,
       link: "https://citadelholdings.com.my/",
     },
     {
@@ -76,56 +85,56 @@ export const Projects = () => {
       description: "Citadel Group Sdn Bhd",
       role: "Citadel Group Company Profile",
       date: "Published on Nov 2025",
-      imgUrl: projImg6,
+      imgUrl: projImg14,
       link: "https://citadelgroup.com.my/",
     },
     {
       title: "Citadel Group Technology",
       description: "Citadel Group Technologies Sdn Bhd",
       role: "IT Company at Citadel Holdings",
-      imgUrl: projImg6,
+      imgUrl: projImg13,
       link: "https://citadelholdings.com.my/citadeltechnologies/",
     },
     {
       title: "Citadel Tayyib 360",
       description: "Citadel Tayyib 360 Sdn Bhd",
       role: "Shariah Compliant Business Solution at Citadel Group",
-      imgUrl: projImg6,
+      imgUrl: projImg12,
       link: "https://citadelgroup.com.my/citadeltayyib360/",
     },
     {
       title: "Citadel Travel & Tours",
       description: "Citadel Travel & Tours Sdn Bhd",
       role: "Tourism Company at Citadel Group",
-      imgUrl: projImg6,
+      imgUrl: projImg11,
       link: "https://citadelgroup.com.my/citadeltraveltours/",
     },
     {
       title: "Citadel Wealth Partners",
       description: "Citadel Wealth Partners Sdn Bhd",
       role: "Finance Company at Citadel Group",
-      imgUrl: projImg6,
+      imgUrl: projImg10,
       link: "https://citadelholdings.com.my/citadelwealthpartners/",
     },
     {
       title: "Citadel Capital",
       description: "Citadel Capital Sdn Bhd",
       role: "Finance Company at Citadel Group",
-      imgUrl: projImg6,
+      imgUrl: projImg9,
       link: "https://citadelgroup.com.my/citadelcapital/",
     },
     {
       title: "Citadel Pay",
       description: "Citadel Pay Sdn Bhd",
       role: "Finance Company at Citadel Group",
-      imgUrl: projImg6,
+      imgUrl: projImg8,
       link: "https://citadelholdings.com.my/citadelpay/",
     },
     {
       title: "flourpowerselayang.com",
       description: "Flour Power Selayang's Website",
       role: "Food & Beverage – Community Enterprise",
-      imgUrl: projImg6,
+      imgUrl: projImg7,
       link: "https://flourpowerselayang.com/",
     },
   ];
